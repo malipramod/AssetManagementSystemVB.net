@@ -1,0 +1,137 @@
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\bin\Debug\AssetManagement.exe
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\bin\Debug\AssetManagement.pdb
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\bin\Debug\AssetManagement.xml
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.FrmAssetManagement.resources
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.Resources.resources
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.vbproj.GenerateResource.Cache
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.exe
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.xml
+C:\Users\Viju Baby\AppData\Local\Temporary Projects\AssetManagement\obj\Debug\AssetManagement.pdb
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.exe
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.xml
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
+D:\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.exe
+D:\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.pdb
+D:\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.xml
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditPurchasereturn.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetManagement.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmChangePassword.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmDepartmentMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmDonorDetails.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditDepartmentMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditInstituteMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmInstituteMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmLoginForm.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmUserReg.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.Resources.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.vbproj.GenerateResource.Cache
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmEditUserReg.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditAssetMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSaleMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSupplierMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditRepairmentMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmGroupMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditGroupMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchaseReturnGrid.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentGrid.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleGrid.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierGrid.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchasereturnMaster.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmFchangepassword.resources
+D:\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmForgotpassord.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.exe.config
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.exe
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.pdb
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.xml
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmChangePassword.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmDepartmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmEditUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmFchangepassword.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmForgotpassord.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmGroupMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditGroupMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetManagement.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmInstituteMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmLoginForm.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchaseReturnGrid.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentGrid.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleGrid.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierGrid.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditAssetMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditPurchasereturn.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchasereturnMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmAssetDetails.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditDepartmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditInstituteMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmUserReg.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.Resources.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSaleMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSupplierMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditRepairmentMaster.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.vbproj.GenerateResource.Cache
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmRPTViewer.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmSupplier.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSales.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmRepairment.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmPurchaseReturns.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmDepatmentSearch.resources
+C:\Users\VS\Documents\Visual Studio 2008\Projects\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmInstituteSearch.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.exe.config
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.exe
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.xml
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.pdb
+D:\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.exe
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmChangePassword.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmDepartmentMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmDepatmentSearch.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmEditUserReg.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmFchangepassword.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmForgotpassord.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmGroupMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditGroupMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetManagement.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmInstituteMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmInstituteSearch.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmLoginForm.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmPurchaseReturns.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmRepairment.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmRPTViewer.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchaseReturnGrid.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentGrid.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSaleGrid.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSales.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmSupplier.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierGrid.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmSupplierMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmRepairmentMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditAssetMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditPurchasereturn.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmPurchasereturnMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.frmAssetDetails.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmAssetMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditDepartmentMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditInstituteMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmUserReg.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.Resources.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSaleMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditSupplierMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.FrmEditRepairmentMaster.resources
+D:\New\Asset Management System\AssetManagement\AssetManagement\obj\Debug\AssetManagement.vbproj.GenerateResource.Cache
+D:\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.pdb
+D:\New\Asset Management System\AssetManagement\AssetManagement\bin\Debug\AssetManagement.xml
